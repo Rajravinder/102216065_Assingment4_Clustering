@@ -32,23 +32,7 @@ This project performs a comparative analysis of clustering algorithms using vari
 
 ## 📊 Sample Results
 
-| Method        | Algorithm       | Clusters | Silhouette | DB Index | CH Index |
-|---------------|------------------|----------|-------------|------------|------------|
-| Standardized  | KMeans           | 3        | 0.284       | 0.54       | 183.57     |
-| Normalized    | Agglomerative    | 3        | 0.276       | 0.62       | 170.12     |
-| Raw           | DBSCAN           | 2        | 0.251       | 0.70       | 150.83     |
-| ...           | ...              | ...      | ...         | ...        | ...        |
-
 > 📌 Full result table available in `clustering_results.csv`
-
----
-
-## ✅ Conclusion
-
-- **Standardization** generally improves clustering performance, especially for K-Means.
-- **K-Means** achieved the best scores with 3 clusters, closely matching the ground truth.
-- **DBSCAN** struggled due to varying densities.
-- **Agglomerative Clustering** also performed well with normalized data.
 
 ---
 
