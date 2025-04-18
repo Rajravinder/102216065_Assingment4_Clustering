@@ -43,21 +43,6 @@ This project performs a comparative analysis of clustering algorithms using vari
 
 ---
 
-## 🖼️ Visualizations
-
-2D PCA plots of clusters were generated for each method and cluster count. Examples:
-
-- **K-Means with 3 clusters**  
-  ![kmeans](https://via.placeholder.com/400x200.png?text=KMeans+PCA+Plot)
-
-- **Agglomerative with 4 clusters**  
-  ![agg](https://via.placeholder.com/400x200.png?text=Agglomerative+PCA+Plot)
-
-- **DBSCAN clustering**  
-  ![dbscan](https://via.placeholder.com/400x200.png?text=DBSCAN+PCA+Plot)
-
----
-
 ## ✅ Conclusion
 
 - **Standardization** generally improves clustering performance, especially for K-Means.
@@ -68,20 +53,20 @@ This project performs a comparative analysis of clustering algorithms using vari
 ---
 
 ## 💻 How to Run
-1. Open the [Colab Notebook](link-to-your-colab) or run it locally.
+1. Open the [Colab Notebook] Assignment4_Clustering_Fin.ipynb
 2. Make sure all required Python libraries are installed.
 3. Check `clustering_results.csv` and visualizations for analysis.
 
 ---
 
 ## 📁 Files
-- `clustering_assignment.ipynb` – Main analysis notebook
+- `Assignment4_Clustering_Fin.ipynb` – Main analysis notebook
 - `clustering_results.csv` – Result table
 - `README.md` – This file
 
 ---
 
 ## 📬 Contact
-Made by **Tuxkun** ✨  
+Made by **Rajravinder Singh** ✨  
 Feel free to fork, clone, and modify!
 

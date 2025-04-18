@@ -1,0 +1,25 @@
+Method,Algorithm,Clusters,Silhouette,DB Index,CH Index
+raw,KMeans,2,0.657,0.479,505.429
+raw,KMeans,3,0.56,0.55,497.005
+raw,KMeans,4,0.567,0.549,696.839
+raw,KMeans,5,0.508,0.574,745.197
+raw,Agglomerative,2,0.659,0.459,483.113
+raw,Agglomerative,3,0.564,0.536,552.852
+raw,Agglomerative,4,0.561,0.554,670.626
+raw,Agglomerative,5,0.507,0.551,684.223
+standardized,KMeans,2,0.265,1.494,69.092
+standardized,KMeans,3,0.285,1.389,70.94
+standardized,KMeans,4,0.254,1.695,52.759
+standardized,KMeans,5,0.184,1.912,45.856
+standardized,Agglomerative,2,0.267,1.412,65.361
+standardized,Agglomerative,3,0.277,1.419,67.647
+standardized,Agglomerative,4,0.226,1.789,51.464
+standardized,Agglomerative,5,0.187,1.923,43.679
+normalized,KMeans,2,0.299,1.349,84.649
+normalized,KMeans,3,0.301,1.309,83.351
+normalized,KMeans,4,0.244,1.715,65.526
+normalized,KMeans,5,0.205,1.847,53.595
+normalized,Agglomerative,2,0.297,1.246,75.75
+normalized,Agglomerative,3,0.295,1.318,81.328
+normalized,Agglomerative,4,0.249,1.753,63.515
+normalized,Agglomerative,5,0.204,1.937,52.277
